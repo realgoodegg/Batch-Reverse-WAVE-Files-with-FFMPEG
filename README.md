@@ -1,4 +1,4 @@
-# Batch-Reverse-Wave-Files-with-FFMPEG
+# Batch-Reverse-WAVE-Files-with-FFMPEG
 > Batch reverse WAVE files using [FFMPEG](https://ffmpeg.org), while retaining the input file's bit-depth and embeded metadata.  
 
 ## Purpose
